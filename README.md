@@ -1,20 +1,26 @@
 # Machine Learning Project – End-to-End Data Analysis and Modeling
 
 ## Overview
-This project presents a complete end-to-end Machine Learning workflow, developed within a Jupyter Notebook.  
+This project presents a complete end-to-end Machine Learning workflow. 
 The goal is to demonstrate practical skills in data analysis, preprocessing, feature engineering, model development, evaluation, and interpretation, following a structured and reproducible approach.
 
 The notebook is designed to be readable, well-documented, and suitable both for technical audiences and for non-technical stakeholders interested in understanding the modeling decisions and results.
 
 ---
 
-## Objectives
-- Perform an exploratory data analysis (EDA) to understand the underlying structure of the dataset  
-- Apply appropriate data cleaning and preprocessing techniques  
-- Engineer and select relevant features  
-- Train and evaluate Machine Learning models  
-- Interpret results using both statistical and model-based metrics  
-- Provide clear conclusions and possible next steps  
+## Objective of the Analysis
+
+The objective of this project is to develop a model capable of estimating customer creditworthiness, with the aim of supporting decisions regarding credit card issuance. The model not only predicts whether an application will be approved or rejected, but also provides clear and interpretable reasons based on the customer's individual characteristics.
+
+Specifically, it aims to:
+
+* Identify the main factors that influence creditworthiness.
+
+* Support automated decisions for credit card issuance, reducing risk and evaluation times.
+
+* Provide transparent explanations for each decision, to justify any rejections or approvals.
+
+This approach combines predictive accuracy with interpretability, making the decision-making process more robust and reliable.
 
 ---
 
