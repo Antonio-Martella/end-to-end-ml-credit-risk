@@ -121,6 +121,7 @@ The project is developed as a single, well-structured notebook and follows a com
 - **Pandas**
 - **Matplotlib / Seaborn**
 - **Scikit-learn**
+- **SHAP**
 - *(Other libraries are listed directly inside the notebook)*
 
 ---
