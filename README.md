@@ -44,6 +44,7 @@ Main features include:
 - **FLAG_MOBIL / FLAG_WORK_PHONE / FLAG_PHONE / FLAG_EMAIL**: Contact availability indicators
 - **OCCUPATION_TYPE**: Occupation category
 - **CNT_FAM_MEMBERS**: Number of family members
+
 The target variable (**TARGET**) is binary:
 - **1**: Customer with high credit reliability (regular and consistent repayments)
 - **0**: Customer with lower credit reliability
