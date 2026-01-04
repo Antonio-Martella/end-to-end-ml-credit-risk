@@ -90,7 +90,7 @@ The project is developed as a single, well-structured notebook and follows a com
      - Random Forest
      - Gradient Boosting
      - Multilayer Perceptron (MLP)
-   - Cross-validation-based evaluation using ROC-AUC, precision, and recall
+   - Cross-validation-based evaluation using ROC-AUC, precision and recall
 
 7. **Model Selection and Hyperparameter Tuning**
    - Selection of the most promising model based on cross-validation results
